@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f33663c3-253a-437b-9b7c-0212d10ae746" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="自选项目" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/optiona/src/components/goodsd.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-617">
+              <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/optiona/src/views/shopcar/shopcar.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="195" column="21" lean-forward="true" selection-start-line="195" selection-start-column="21" selection-end-line="195" selection-end-column="21" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#span#2;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#span#2;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#1;n#div#1;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="e#2503#2547#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="197" column="29" lean-forward="true" selection-start-line="197" selection-start-column="17" selection-end-line="197" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/optiona/src/components/tabBar.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1297">
+              <caret line="114" column="12" selection-start-line="114" selection-start-column="12" selection-end-line="114" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/optiona/src/views/home/home.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2484">
+              <caret line="100" column="8" lean-forward="true" selection-start-line="88" selection-start-column="6" selection-end-line="100" selection-end-column="8" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="e#1323#1352#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/optiona/src/components/goodsinfor.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1253">
+              <caret line="83" column="23" selection-start-line="83" selection-start-column="23" selection-end-line="83" selection-end-column="23" />
+              <folding>
+                <element signature="e#2149#2177#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/optiona/src/views/my/my.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="373">
+              <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/optiona/src/views/sort/sort.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="70">
+              <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+              <folding>
+                <element signature="e#555#595#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/optiona/src/views/special/special.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="627">
+              <caret line="226" column="28" lean-forward="true" selection-start-line="226" selection-start-column="28" selection-end-line="226" selection-end-column="28" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#p#0;n#span#0;n#nav#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="e#1046#1086#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/optiona/src/api/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="54" column="49" lean-forward="true" selection-start-line="54" selection-start-column="49" selection-end-line="54" selection-end-column="49" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/optiona/package.json" />
+        <option value="$PROJECT_DIR$/optiona/src/util/bus.js" />
+        <option value="$PROJECT_DIR$/optiona/src/views/home/goodslist.vue" />
+        <option value="$PROJECT_DIR$/optiona/static/datas.json" />
+        <option value="$PROJECT_DIR$/server/beifen.json" />
+        <option value="$PROJECT_DIR$/optiona/src/views/shopcar/shopcar-after.vue" />
+        <option value="$PROJECT_DIR$/server/order.json" />
+        <option value="$PROJECT_DIR$/server/shopcargoods.json" />
+        <option value="$PROJECT_DIR$/optiona/src/components/login.vue" />
+        <option value="$PROJECT_DIR$/optiona/src/components/shoping.vue" />
+        <option value="$PROJECT_DIR$/optiona/src/views/shopcar/shopcar-addgoods.vue" />
+        <option value="$PROJECT_DIR$/optiona/src/components/order.vue" />
+        <option value="$PROJECT_DIR$/optiona/index.html" />
+        <option value="$PROJECT_DIR$/optiona/src/components/goods1.vue" />
+        <option value="$PROJECT_DIR$/server/sort.json" />
+        <option value="$PROJECT_DIR$/server/special.json" />
+        <option value="$PROJECT_DIR$/optiona/src/http/xhttp.js" />
+        <option value="$PROJECT_DIR$/server/data.json" />
+        <option value="$PROJECT_DIR$/optiona/src/components/shopspree.vue" />
+        <option value="$PROJECT_DIR$/optiona/src/views/shoping.vue" />
+        <option value="$PROJECT_DIR$/optiona/src/views/home/home-swiper.vue" />
+        <option value="$PROJECT_DIR$/optiona/src/views/home/homegoods.vue" />
+        <option value="$PROJECT_DIR$/optiona/src/views/home/search.vue" />
+        <option value="$PROJECT_DIR$/optiona/src/components/item.vue" />
+        <option value="$PROJECT_DIR$/optiona/src/components/goods.vue" />
+        <option value="$PROJECT_DIR$/optiona/src/components/myscroll.vue" />
+        <option value="$PROJECT_DIR$/optiona/src/components/pull.vue" />
+        <option value="$PROJECT_DIR$/optiona/src/App.vue" />
+        <option value="$PROJECT_DIR$/optiona/src/util/cookie.js" />
+        <option value="$PROJECT_DIR$/optiona/src/views/home/goodsinfor.vue" />
+        <option value="$PROJECT_DIR$/optiona/src/components/goodsSearch.vue" />
+        <option value="$PROJECT_DIR$/optiona/src/components/loading.vue" />
+        <option value="$PROJECT_DIR$/optiona/src/router/index.js" />
+        <option value="$PROJECT_DIR$/optiona/src/components/goodsinfor.vue" />
+        <option value="$PROJECT_DIR$/optiona/src/components/goodsa.vue" />
+        <option value="$PROJECT_DIR$/server/name.json" />
+        <option value="$PROJECT_DIR$/optiona/src/components/goodsb.vue" />
+        <option value="$PROJECT_DIR$/optiona/src/components/goodsc.vue" />
+        <option value="$PROJECT_DIR$/optiona/src/components/goodsd.vue" />
+        <option value="$PROJECT_DIR$/optiona/src/components/goodse.vue" />
+        <option value="$PROJECT_DIR$/optiona/src/components/goodsf.vue" />
+        <option value="$PROJECT_DIR$/optiona/src/views/my/myset.vue" />
+        <option value="$PROJECT_DIR$/optiona/src/main.js" />
+        <option value="$PROJECT_DIR$/optiona/src/views/home/home.vue" />
+        <option value="$PROJECT_DIR$/optiona/src/views/my/my.vue" />
+        <option value="$PROJECT_DIR$/optiona/src/views/sort/sort.vue" />
+        <option value="$PROJECT_DIR$/optiona/src/components/tabBar.vue" />
+        <option value="$PROJECT_DIR$/optiona/src/views/special/special.vue" />
+        <option value="$PROJECT_DIR$/optiona/src/views/shopcar/shopcar.vue" />
+        <option value="$PROJECT_DIR$/optiona/src/api/index.js" />
+        <option value="$PROJECT_DIR$/server/server.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-75" />
+    <option name="y" value="40" />
+    <option name="width" value="975" />
+    <option name="height" value="1020" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="自选项目" type="b2602c69:ProjectViewProjectNode" />
+              <item name="自选项目" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\YNN\Desktop\自选项目\server" />
+      <recent name="C:\Users\YNN\Desktop\自选项目\optiona\src\components\imgs" />
+      <recent name="C:\Users\YNN\Desktop\自选项目\optiona\src\views\home\imgs" />
+      <recent name="C:\Users\YNN\Desktop\自选项目\optiona\static\imgs" />
+      <recent name="C:\Users\YNN\Desktop\自选项目\optiona\src\assets\imgs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\YNN\Desktop\自选项目\optiona\src\components" />
+      <recent name="C:\Users\YNN\Desktop\自选项目" />
+      <recent name="C:\Users\YNN\Desktop\自选项目\optiona" />
+      <recent name="C:\Users\YNN\Desktop\自选项目\optiona\src\views\home" />
+      <recent name="C:\Users\YNN\Desktop\自选项目\optiona\src\views\home\imgs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f33663c3-253a-437b-9b7c-0212d10ae746" name="Default Changelist" comment="" />
+      <created>1560056719659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560056719659</updated>
+      <workItem from="1560056726684" duration="27667000" />
+      <workItem from="1560125658000" duration="30290000" />
+      <workItem from="1560216706484" duration="29676000" />
+      <workItem from="1560260103056" duration="1871000" />
+      <workItem from="1560303037666" duration="29063000" />
+      <workItem from="1560349406233" duration="705000" />
+      <workItem from="1560386396932" duration="9276000" />
+      <workItem from="1560439515226" duration="6535000" />
+      <workItem from="1560471432472" duration="25778000" />
+      <workItem from="1560565082708" duration="106414000" />
+      <workItem from="1560907246931" duration="33153000" />
+      <workItem from="1560989329043" duration="67323000" />
+      <workItem from="1561113663909" duration="5240000" />
+      <workItem from="1561176535336" duration="27163000" />
+      <workItem from="1561285138718" duration="8958000" />
+      <workItem from="1561336743385" duration="27714000" />
+      <workItem from="1561441771833" duration="21029000" />
+      <workItem from="1561508327729" duration="40055000" />
+      <workItem from="1561594156524" duration="13442000" />
+      <workItem from="1561680895486" duration="649000" />
+      <workItem from="1561682184455" duration="1447000" />
+      <workItem from="1561684900640" duration="26000" />
+      <workItem from="1561685570377" duration="23921000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="537395000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15437302" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32967034" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.4154013" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/optiona/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/.babelrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../路由跳转框架应用/页面跳转时加载中的动画/loading/loading/loading1.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/views/home/search.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="15" column="81" selection-start-line="15" selection-start-column="81" selection-end-line="15" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news.html" />
+    <entry file="file://$PROJECT_DIR$/optiona/src/views/home/home-swiper.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1541">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#419#454#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/assets/imgs/shop14.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/assets/imgs/shopcar-icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/assets/imgs/sort.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/components/myscroll.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3192">
+          <caret line="165" column="9" lean-forward="true" selection-start-line="163" selection-start-column="8" selection-end-line="165" selection-end-column="9" />
+          <folding>
+            <element signature="e#1794#1814#0" expanded="true" />
+            <element signature="e#1829#1860#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/components/pull.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10791">
+          <caret line="327" column="16" selection-start-line="327" selection-start-column="16" selection-end-line="327" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/util/cookie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/views/shopcar/shopcar-addgoods.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/views/shoping.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/components/goodsSearch.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="56" column="21" lean-forward="true" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/components/order.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1485">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding>
+            <element signature="n#style#0;n#span#1;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="140" column="20" selection-start-line="140" selection-start-column="7" selection-end-line="140" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/db.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2277" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/order.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/views/shopcar/shopcar-after.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/views/home/imgs/message.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/components/loading.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1122">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/name.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/components/login.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="45" column="29" lean-forward="true" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/components/goodsa.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/components/goodsb.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1914">
+          <caret line="58" column="26" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/components/goodsc.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/components/goodse.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/components/goodsf.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1881">
+          <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/views/my/myset.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#323#365#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#140#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/beifen.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-231">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/shopcargoods.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/components/item.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1277">
+          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/components/goods.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3432">
+          <caret line="105" selection-start-line="105" selection-end-line="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/components/goodsd.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-617">
+          <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/views/home/home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2484">
+          <caret line="100" column="8" lean-forward="true" selection-start-line="88" selection-start-column="6" selection-end-line="100" selection-end-column="8" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#1323#1352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/views/my/my.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/views/sort/sort.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+          <folding>
+            <element signature="e#555#595#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/components/tabBar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1297">
+          <caret line="114" column="12" selection-start-line="114" selection-start-column="12" selection-end-line="114" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/views/shopcar/shopcar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="195" column="21" lean-forward="true" selection-start-line="195" selection-start-column="21" selection-end-line="195" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#span#2;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#span#2;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#1;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#2503#2547#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/views/special/special.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="226" column="28" lean-forward="true" selection-start-line="226" selection-start-column="28" selection-end-line="226" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#p#0;n#span#0;n#nav#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#1046#1086#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="197" column="29" lean-forward="true" selection-start-line="197" selection-start-column="17" selection-end-line="197" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/api/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="54" column="49" lean-forward="true" selection-start-line="54" selection-start-column="49" selection-end-line="54" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optiona/src/components/goodsinfor.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1253">
+          <caret line="83" column="23" selection-start-line="83" selection-start-column="23" selection-end-line="83" selection-end-column="23" />
+          <folding>
+            <element signature="e#2149#2177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
